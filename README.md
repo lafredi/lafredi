@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ### Github repositories stats
 
-![lafredi](https://github-readme-stats.vercel.app/api?username=lafredi&show_icons)
-
+![lafredi](https://github-readme-stats.vercel.app/api?username=lafredi&show_icons&count_private=true)
 
 
 ### Technical stack (non-exhaustive, non-ordered)
