@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/)
+- 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/),
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 - ⚡ Project implementation and hackathon story
 - [Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
@@ -31,7 +31,16 @@ Here are some ideas to get you started:
 
 
 ### Technical stack (non-exhaustive, non-ordered)
-
+  - PROGRAMMING: C, Python, R, JAVA/JEE, Script Shell
+  - ML/DL LIBRARY: Keras, Scikit-Learn, TensorFlow, PyTorch, NumPy, Pandas 
+  - NLP: NLU [RASA, Dialogflow], STT/TTS [Microsoft, Google,Aws, Kaldi ASR]
+  - DATA SCIENCE TOOLS: MLflow, MinIO, KNIME, Jupyter Notebook 
+  - CLOUD: AWS, Azure Certified
+  - CONTAINERIZATION: Docker/Docker-Compose, Kubernetes
+  - DBMS: MYSQL, Snowflake
+  - ENVIRONMENT: Visual Studio
+  - METHOD/ PRACTICES: Scrum/Agile, TDD, ML Ops
+  - LANGUAGES: French bilingual, English intermediate advanced, Arabic bilingual
 #### Languages
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
