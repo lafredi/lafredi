@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I am currently working as Data engineer at [https://mon.apicil.com/](Apicil)
+- 🌱 I am currently learning some new techno such as Snowflake and Terraform.
+- 📫 You can reach me by email at hamid.lafredi@mail.com
+
 ### Github repositories stats
 
-![lafredi](https://github-readme-stats.vercel.app/api?username=lafredi&show_icons)](https://github.com/lafredi/github-readme-stats)
+![lafredi](https://github-readme-stats.vercel.app/api?username=lafredi&show_icons)
 
 
 
 ### Technical stack (non-exhaustive, non-ordered)
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
