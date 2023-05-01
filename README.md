@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Project implementation and hackathon story
 - [Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
 - [Hack to Act for Sustainabl Luxury](https://www.linkedin.com/posts/hamid-lafredi_kering-keringforsustainability-core-activity-6589431785321570305-9dqH?utm_source=share&utm_medium=member_desktop)
-  - <a href="" style="display: block; width: 250px; height: 200px; overflow: hidden;"><img src="https://media.licdn.com/dms/image/C4D16AQFFJVQ6JOwAWQ/profile-displaybackgroundimage-shrink_350_1400/0/1633440764456?e=1688601600&v=beta&t=C3HCGN2aJtG8ZJv7-OebV6a7E-zh4YQXtSXe7GBeMSw" style="width: 100%; height: 100%; object-fit: cover;"></a>
+<a href="" style="display: block; width: 250px; height: 200px; overflow: hidden;"><img src="https://media.licdn.com/dms/image/C4D16AQFFJVQ6JOwAWQ/profile-displaybackgroundimage-shrink_350_1400/0/1633440764456?e=1688601600&v=beta&t=C3HCGN2aJtG8ZJv7-OebV6a7E-zh4YQXtSXe7GBeMSw" style="width: 100%; height: 100%; object-fit: cover;"></a>
 
 
 ### Github repositories stats
