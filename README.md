@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/)
 - 🌱 I am learning some new techno such as Snowflake and Terraform.
 - 📫 You can reach me by email at hamid.lafredi@mail.com
+- ⚡ Project implementation and hackathon story
+
+[Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
+[Hack to Act for Sustainabl Luxury](https://www.linkedin.com/posts/hamid-lafredi_kering-keringforsustainability-core-activity-6589431785321570305-9dqH?utm_source=share&utm_medium=member_desktop)
 
 ### Github repositories stats
 
@@ -68,10 +72,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/640px-FastAPI_logo.png"></code>
 
 
-⚡ Project implementation and hackathon story
 
-[Hackthon VivaTech]([https://mon.apicil.com/](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop))
-[Hack to Act for Sustainabl Luxury]([https://mon.apicil.com/](https://www.linkedin.com/posts/hamid-lafredi_kering-keringforsustainability-core-activity-6589431785321570305-9dqH?utm_source=share&utm_medium=member_desktop))
 
 
 
