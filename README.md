@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently working as Data engineer at ![https://mon.apicil.com/](Apicil)
-- 🌱 I am currently learning some new techno such as Snowflake and Terraform.
+- 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/)
+- 🌱 I am learning some new techno such as Snowflake and Terraform.
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 
 ### Github repositories stats
@@ -62,5 +62,3 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg"></code>
-
-
