@@ -31,41 +31,23 @@ Here are some ideas to get you started:
 
 #### Cloud Services
 
-<div>
-  <p>Amazon AWS</p>
-  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
-    <div style="background-color: #f90; height: 10px; width: 90%; border-radius: 20px;"></div>
-  </div>
-  <p>Google Cloud</p>
-  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
-    <div style="background-color: #66c2a5; height: 10px; width: 40%; border-radius: 20px;"></div>
-  </div>
-  <p>Microsoft Azure</p>
-  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
-    <div style="background-color: #fc8d62; height: 10px; width: 40%; border-radius: 20px;"></div>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  </div>
-</div>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 #### Containers
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg"></code>
 
-####  orchestration 
+####  Orchestration 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-
-
-
-
 #### Databases
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://easyteam.fr/wp-content/uploads/2018/12/7fbi9z561ndtkirbv162.png"></code>
+
+  
 
 #### Frameworks
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
