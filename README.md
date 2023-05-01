@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/)
-- 🌱 I am learning some new techno such as Snowflake and Terraform.
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 - ⚡ Project implementation and hackathon story
+- [Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
+  - <a href="" style="display: block; width: 250px; height: 200px; overflow: hidden;"><img src="https://media.licdn.com/dms/image/C5622AQH-Wj-CdNTlEA/feedshare-shrink_2048_1536/0/1571042960329?e=1685577600&v=beta&t=HCq_G-oYH7oy-WFA7imrz_UyPHITYE2k4n1wufvO1Uw" style="width: 100%; height: 100%; object-fit: cover;"></a>
+- [Hack to Act for Sustainabl Luxury](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
+  - <a href="" style="display: block; width: 250px; height: 200px; overflow: hidden;"><img src="https://media.licdn.com/dms/image/C5612AQE3KTpHsE5n0A/article-cover_image-shrink_720_1280/0/1562661692348?e=1688601600&v=beta&t=Bs4RmzVo0nu9yKTuyzB8uvq8vmKj56rHAE6scWNJi7U" style="width: 100%; height: 100%; object-fit: cover;"></a>
 
-[Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
-[Hack to Act for Sustainabl Luxury](https://www.linkedin.com/posts/hamid-lafredi_kering-keringforsustainability-core-activity-6589431785321570305-9dqH?utm_source=share&utm_medium=member_desktop)
 
 ### Github repositories stats
 
