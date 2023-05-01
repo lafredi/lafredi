@@ -4,8 +4,6 @@
 **lafredi/lafredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![lafredi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafredi)](https://github.com/lafredi/github-readme-stats)
-
 
 Here are some ideas to get you started:
 
@@ -18,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github repositories stats
+
+![lafredi](https://github-readme-stats.vercel.app/api?username=lafredi&show_icons)](https://github.com/lafredi/github-readme-stats)
+
 
 
 ### Technical stack (non-exhaustive, non-ordered)
