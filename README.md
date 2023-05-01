@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 #### Infrastructure 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img height="50" src="https://ci.linagora.com/uploads/-/system/project/avatar/3393/gitlab-ci-cd-logo_2x.png"></code>
 
 
