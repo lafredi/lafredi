@@ -30,15 +30,12 @@ Here are some ideas to get you started:
 ### Technical stack (non-exhaustive, non-ordered)
 
 #### Cloud Services
-
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
 #### Containers
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg"></code>
-
 ####  Orchestration 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 #### Databases
@@ -46,7 +43,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://easyteam.fr/wp-content/uploads/2018/12/7fbi9z561ndtkirbv162.png"></code>
 
-  
 #### Infrastructure 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 
@@ -57,6 +53,7 @@ Here are some ideas to get you started:
 
 #### Machine Learning
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
 
 #### Other
