@@ -49,22 +49,16 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://easyteam.fr/wp-content/uploads/2018/12/7fbi9z561ndtkirbv162.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
 
-
 #### Infrastructure 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img height="50" src="https://ci.linagora.com/uploads/-/system/project/avatar/3393/gitlab-ci-cd-logo_2x.png"></code>
 
-
-
-
 #### Machine Learning
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
-
 #### Other
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
@@ -72,3 +66,15 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/640px-FastAPI_logo.png"></code>
+
+
+⚡ Project implementation and hackathon story
+
+[Hackthon VivaTech]([https://mon.apicil.com/](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop))
+[Hack to Act for Sustainabl Luxury]([https://mon.apicil.com/](https://www.linkedin.com/posts/hamid-lafredi_kering-keringforsustainability-core-activity-6589431785321570305-9dqH?utm_source=share&utm_medium=member_desktop))
+
+
+
+
+
+
