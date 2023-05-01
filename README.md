@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently working as Data engineer at (https://mon.apicil.com/)[Apicil]
+- 🔭 I am currently working as Data engineer at ![https://mon.apicil.com/](Apicil)
 - 🌱 I am currently learning some new techno such as Snowflake and Terraform.
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 
@@ -29,9 +29,24 @@ Here are some ideas to get you started:
 
 ### Technical stack (non-exhaustive, non-ordered)
 
+#### Cloud Services
 
+<div>
+  <p>Amazon AWS</p>
+  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
+    <div style="background-color: #f90; height: 10px; width: 90%; border-radius: 20px;"></div>
+  </div>
+  <p>Google Cloud</p>
+  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
+    <div style="background-color: #66c2a5; height: 10px; width: 40%; border-radius: 20px;"></div>
+  </div>
+  <p>Microsoft Azure</p>
+  <div style="background-color: #ddd; height: 10px; border-radius: 20px;">
+    <div style="background-color: #fc8d62; height: 10px; width: 40%; border-radius: 20px;"></div>
+    <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  </div>
+</div>
 
-- Cloud Services
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
