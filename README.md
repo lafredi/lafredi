@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently working as Data engineer at [https://mon.apicil.com/](Apicil)
+- 🔭 I am currently working as Data engineer at (https://mon.apicil.com/)[Apicil]
 - 🌱 I am currently learning some new techno such as Snowflake and Terraform.
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 
 
-### Technical stack
+### Technical stack (non-exhaustive, non-ordered)
 
 
 
-#### Cloud Services
+- Cloud Services
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
