@@ -61,4 +61,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg"></code>
+
 
