@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 ### Technical stack (non-exhaustive, non-ordered)
 
+#### Languages
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
 #### Cloud Services
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 ####  Orchestration 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 
-#### Databases
+#### Relational and NoSQL database tools & cloud data warehouses
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://easyteam.fr/wp-content/uploads/2018/12/7fbi9z561ndtkirbv162.png"></code>
@@ -52,9 +56,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://ci.linagora.com/uploads/-/system/project/avatar/3393/gitlab-ci-cd-logo_2x.png"></code>
 
 
-#### Languages
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
 
 #### Machine Learning
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
