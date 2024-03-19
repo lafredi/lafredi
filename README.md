@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently working as Data Engineer at [Apicil](https://mon.apicil.com/)
+- 🔭 I am currently working as Data Engineer at [Micropole](https://www.micropole.com/)
 - 📫 You can reach me by email at hamid.lafredi@mail.com
 - ⚡ Project implementation and hackathon story
 - [Hackthon VivaTech](https://www.linkedin.com/feed/update/urn:li:activity:6554342696683741184?utm_source=share&utm_medium=member_desktop)
