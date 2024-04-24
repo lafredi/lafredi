@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Data_build_tool_%28dbt%29_logo.svg/1920px-Data_build_tool_%28dbt%29_logo.svg.png"></code>
+<code><img height="50" src="https://miro.medium.com/v2/resize:fit:700/1*bs4QsEzWBpQMfwP2cNfrWw.png"></code>
 
 #### Other mastered skills
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
