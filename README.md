@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**lafredi/lafredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For more than 5 years, as a Data Engineer/Scientist®, I had the opportunity to contribute to various projects within the R\&D and Innovation department. I began my career as a Data Scientist in NLP, and later worked as Data Engineer on projects involving various aspects of Big Data and AI, by contributing in the Data Engineering domain, building various data architectures on cloud platforms such as AWS, and hybrid cloud, involved in aspects of DevOps CI/CD and finally FinOps.
+
+Currently, I'm responsible for many projects related to Data Engineering on the AWS platform. I collaborate with stakeholders and team members to set up the most stable, scalable and reusable code and architectures.
+This involves starting from the design phase and progressing through development to production deployment, utilizing AWS, dbt, Snowflake, and Terraform
+
+
 
 
 
